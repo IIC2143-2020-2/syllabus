@@ -25,6 +25,20 @@ Nombre               | Email           | Github
 -------------------- | ---------------- | ----------------
 Daniel Leal | dlleal@uc.cl | [@daleal](https://github.com/daleal)
 Moisés Retamal | meretamal@uc.cl | [@meretamal](https://github.com/meretamal)
+Agustín Aguilar | anaguilar@uc.cl | [@aaguilarg](https://github.com/aaguilarg)
+Antonia Christensen | achristensen1@uc.cl | [@AntoniaChristensen](https://github.com/AntoniaChristensen)
+Cristóbal Chauriye | cchauriye@uc.cl | [@cchauriye](https://github.com/cchauriye)
+Cristóbal Rey | cirey@uc.cl | [@cirey1](https://github.com/cirey1)
+Javiera Dawabe | jadawabe@uc.cl | [@jadawabe](https://github.com/jadawabe)
+Jerónimo Salazar | jcsalazar@uc.cl | [@jerosalazar](https://github.com/jerosalazar)
+Liat Israel | lisrael1@uc.cl | [@lisraelrat1](https://github.com/lisraelrat1)
+Marjorie Bascuñán | mpbascunan@uc.cl | [@mpbascunan](https://github.com/mpbascunan)
+Miguel Ortiz | miortiz1@uc.cl | [@miortiz1](https://github.com/miortiz1)
+Oscar Cárcamo | oscar.carcamoz@uc.cl | [@oscars810](https://github.com/oscars810)
+Rodrigo Gaona | rodrigo.gaona@uc.cl | [@gaonuk](https://github.com/gaonuk)
+Sebastián Lira | slira4@uc.cl | [@slira4](https://github.com/slira4)
+Shantal Fabri | sfabri1@uc.cl | [@shantifabri](https://github.com/shantifabri)
+Vicente Espinosa | vtespinosa@uc.cl | [@vtespinosa](https://github.com/vtespinosa)
 
 ## Foro
 
