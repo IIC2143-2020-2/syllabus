@@ -1,0 +1,90 @@
+COMIENZA APROBADOS
+0 Alda Goyette DVM 5.094166666666666
+1 Javier Kemmer 5.110833333333334
+2 Pres. Christopher Murazik 5.2775
+3 Tawnya Funk VM 4.291666666666666
+4 Tory Hettinger CPA 5.241666666666667
+5 Carmen Morar DO 4.3916666666666675
+6 Bradford Gusikowski DVM 5.137499999999999
+7 Jeremy Pfannerstill 4.237500000000001
+8 Matt MacGyver 4.2875
+9 Major Frami 4.912916666666668
+10 Msgr. Christena Mann 4.879583333333334
+11 Larissa Braun 4.629583333333334
+12 Juliann Hartmann 4.576666666666666
+13 Julian Gorczany 4.843333333333333
+15 Lakenya Lakin 4.247916666666667
+16 Leanna Ferry 4.897916666666666
+17 Reva Kozey II 5.414583333333333
+18 Adalberto Dietrich 5.039166666666667
+19 Lorna Ryan DDS 5.439166666666667
+20 Ned Stamm 4.789166666666667
+24 Lloyd O'Kon 4.4725
+25 Anh Gulgowski 4.805833333333333
+26 Jewel Kertzmann 5.172499999999999
+27 Domingo Lehner 5.172499999999999
+29 Francisco O'Keefe 4.739166666666668
+TERMINA APROBADOS
+COMIENZA REPROBADOS
+14 Michel Beier DO 3.9
+21 Denis Littel PhD 3.9
+22 Lazaro Waters DO 3.9
+23 Kenna Senger 3.9
+28 Daren Harber 3.9
+TERMINA REPROBADOS
+COMIENZA PROYECTO
+ayudante:
+1 Twila Hilll
+grupo:
+0
+integrantes:
+0 Alda Goyette DVM 1 Javier Kemmer 2 Pres. Christopher Murazik
+grupo:
+1
+integrantes:
+3 Tawnya Funk VM 4 Tory Hettinger CPA 5 Carmen Morar DO
+grupo:
+2
+integrantes:
+6 Bradford Gusikowski DVM 7 Jeremy Pfannerstill 8 Matt MacGyver
+grupo:
+3
+integrantes:
+9 Major Frami 10 Msgr. Christena Mann 11 Larissa Braun
+ayudante:
+2 Mr. Ross Hartmann
+grupo:
+4
+integrantes:
+12 Juliann Hartmann 13 Julian Gorczany 14 Michel Beier DO
+grupo:
+5
+integrantes:
+15 Lakenya Lakin 16 Leanna Ferry 17 Reva Kozey II
+grupo:
+6
+integrantes:
+18 Adalberto Dietrich 19 Lorna Ryan DDS 20 Ned Stamm
+ayudante:
+3 Dion Waelchi
+grupo:
+7
+integrantes:
+21 Denis Littel PhD 22 Lazaro Waters DO 23 Kenna Senger
+grupo:
+8
+integrantes:
+24 Lloyd O'Kon 25 Anh Gulgowski 26 Jewel Kertzmann
+grupo:
+9
+integrantes:
+27 Domingo Lehner 28 Daren Harber 29 Francisco O'Keefe
+TERMINA PROYECTO
+COMIENZA TOP GRUPOS
+6 4.945
+8 4.944999999999999
+9 5.445
+TERMINA TOP GRUPOS
+COMIENZA TOP AYUDANTE
+3 Dion Waelchi 4.7725
+TERMINA TOP AYUDANTE
