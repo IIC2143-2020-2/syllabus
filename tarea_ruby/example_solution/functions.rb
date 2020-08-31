@@ -75,7 +75,8 @@ def project(teaching_assistants, teams, students, output)
 end
 
 def top_teams(teams, output)
-  sorted_teams = teams.sort_by { |team| -team.project_grade }
+  best_teams = teams.sort_by { |team| -team.project_grade }[0..2]
+  sorted_teams = best_teams.sort_by { |team| team.id }
   File.open(output, 'a') do |f|
     f.puts 'COMIENZA TOP GRUPOS'
     sorted_teams[0..2].each do |top|
