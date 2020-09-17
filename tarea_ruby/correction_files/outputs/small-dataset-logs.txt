@@ -1,0 +1,90 @@
+COMIENZA PROYECTO
+ayudante:
+1 Miss Jermaine Lindgren
+grupo:
+0
+integrantes:
+0 Gary Moen 1 Elza Schmidt 2 Demarcus Skiles
+grupo:
+1
+integrantes:
+3 Cyrus Haley 4 Graham Metz 5 Herlinda Gerhold
+grupo:
+2
+integrantes:
+6 Alyse Upton III 7 Jeanmarie Mayer 8 Cordell Turcotte
+grupo:
+3
+integrantes:
+9 Hugh Powlowski 10 Arie Lesch LLD 11 Marcus McCullough
+ayudante:
+2 Dominic Pollich Sr.
+grupo:
+4
+integrantes:
+12 Dr. Ferne Bednar 13 Dr. Duane Emmerich 14 Marion Pfeffer DVM
+grupo:
+5
+integrantes:
+15 Steven DuBuque 16 Freddy Rowe 17 Richie Schmitt
+grupo:
+6
+integrantes:
+18 Chong Terry I 19 Jenice Turner 20 Paris Fahey
+ayudante:
+3 Carmelia Roberts
+grupo:
+7
+integrantes:
+21 Aurora Huel 22 Tracy Dickens 23 Chong Dickinson
+grupo:
+8
+integrantes:
+24 Veronica Windler Esq. 25 Glenna Volkman 26 Zelma Paucek Ret.
+grupo:
+9
+integrantes:
+27 Michiko Ortiz 28 Addie Lemke 29 Silvana Goldner
+TERMINA PROYECTO
+COMIENZA APROBADOS
+0 Gary Moen 5.080833333333333
+1 Elza Schmidt 5.064166666666667
+2 Demarcus Skiles 4.864166666666667
+6 Alyse Upton III 4.50625
+7 Jeanmarie Mayer 4.639583333333333
+8 Cordell Turcotte 4.856249999999999
+10 Arie Lesch LLD 4.964583333333334
+11 Marcus McCullough 5.414583333333333
+12 Dr. Ferne Bednar 4.653333333333333
+13 Dr. Duane Emmerich 4.403333333333332
+14 Marion Pfeffer DVM 4.653333333333333
+21 Aurora Huel 4.572916666666667
+23 Chong Dickinson 4.822916666666668
+27 Michiko Ortiz 5.7283333333333335
+28 Addie Lemke 5.011666666666667
+29 Silvana Goldner 5.361666666666666
+TERMINA APROBADOS
+COMIENZA REPROBADOS
+3 Cyrus Haley 3.9
+4 Graham Metz 3.8466666666666667
+5 Herlinda Gerhold 3.6133333333333333
+9 Hugh Powlowski 3.9
+15 Steven DuBuque 3.9
+16 Freddy Rowe 3.6675
+17 Richie Schmitt 3.9
+18 Chong Terry I 3.9
+19 Jenice Turner 3.9
+20 Paris Fahey 3.9
+22 Tracy Dickens 3.9
+24 Veronica Windler Esq. 3.5179166666666664
+25 Glenna Volkman 3.9
+26 Zelma Paucek Ret. 3.9
+TERMINA REPROBADOS
+COMIENZA TOP GRUPOS
+0 4.695
+3 5.262499999999999
+9 5.09
+TERMINA TOP GRUPOS
+COMIENZA TOP AYUDANTE
+3 Carmelia Roberts 4.535
+TERMINA TOP AYUDANTE

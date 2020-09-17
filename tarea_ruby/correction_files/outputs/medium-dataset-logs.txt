@@ -1,0 +1,125 @@
+COMIENZA PROYECTO
+ayudante:
+1 Rigoberto Ferry
+grupo:
+0
+integrantes:
+0 Mable Reichel 1 King Parisian 2 Darcie Botsford DO
+grupo:
+1
+integrantes:
+3 Kendrick Breitenberg 4 Kelvin Williamson 5 Timmy Jacobs
+grupo:
+2
+integrantes:
+6 Carlotta Kessler 7 Amb. Kieth Prosacco 8 Raphael Schamberger
+grupo:
+3
+integrantes:
+9 Gov. Dwana Pouros 10 Deeanna Hirthe 11 Pres. Chaya Waelchi
+grupo:
+4
+integrantes:
+12 Darron Hodkiewicz 13 Rev. Kelley DuBuque 14 Cristopher Bailey
+ayudante:
+2 Kassandra Murphy
+grupo:
+5
+integrantes:
+15 Trinh Oberbrunner 16 Donnell Bayer 17 Mae Volkman DDS
+grupo:
+6
+integrantes:
+18 Rey Reynolds 19 Jamel Murphy 20 Spencer Gislason
+grupo:
+7
+integrantes:
+21 Sen. Alejandro Rutherford 22 Sen. Jacquie Harvey 23 Reed Cronin
+grupo:
+8
+integrantes:
+24 Ja Lubowitz 25 Rodger Mitchell 26 Lenny Johnson
+grupo:
+9
+integrantes:
+27 Shantay Shields 28 Lewis Brakus 29 Rep. Neville Gibson
+ayudante:
+3 Miss Marlene Ortiz
+grupo:
+10
+integrantes:
+30 Rep. Felton Rau 31 Kesha Pacocha V 32 Dr. Benedict Marks
+grupo:
+11
+integrantes:
+33 Olevia Kerluke 34 Junie Towne 35 Clayton McGlynn
+grupo:
+12
+integrantes:
+36 Miss Grazyna Cummings 37 Jonathan MacGyver 38 Carolann Mante
+grupo:
+13
+integrantes:
+39 Kim Rosenbaum 40 Felton D'Amore 41 Vanetta Harris
+grupo:
+14
+integrantes:
+42 Veronique Bins 43 The Hon. Johnny Mertz 44 Robin Leffler
+TERMINA PROYECTO
+COMIENZA APROBADOS
+0 Mable Reichel 4.537083333333333
+1 King Parisian 4.25375
+2 Darcie Botsford DO 4.970416666666667
+4 Kelvin Williamson 5.055833333333334
+5 Timmy Jacobs 4.8725000000000005
+6 Carlotta Kessler 4.537083333333333
+7 Amb. Kieth Prosacco 4.637083333333333
+8 Raphael Schamberger 4.670416666666666
+9 Gov. Dwana Pouros 4.5304166666666665
+10 Deeanna Hirthe 4.7804166666666665
+11 Pres. Chaya Waelchi 4.36375
+14 Cristopher Bailey 5.202500000000001
+15 Trinh Oberbrunner 4.3925
+16 Donnell Bayer 4.4591666666666665
+17 Mae Volkman DDS 4.6258333333333335
+18 Rey Reynolds 4.468333333333333
+20 Spencer Gislason 4.501666666666667
+24 Ja Lubowitz 4.324999999999999
+28 Lewis Brakus 5.074583333333333
+29 Rep. Neville Gibson 5.29125
+30 Rep. Felton Rau 5.54
+31 Kesha Pacocha V 5.54
+32 Dr. Benedict Marks 4.906666666666666
+33 Olevia Kerluke 5.415416666666666
+34 Junie Towne 4.665416666666666
+35 Clayton McGlynn 5.6987499999999995
+36 Miss Grazyna Cummings 5.139166666666666
+37 Jonathan MacGyver 4.655833333333334
+38 Carolann Mante 5.105833333333333
+39 Kim Rosenbaum 5.125416666666666
+40 Felton D'Amore 5.425416666666667
+41 Vanetta Harris 5.342083333333333
+TERMINA APROBADOS
+COMIENZA REPROBADOS
+3 Kendrick Breitenberg 3.9
+12 Darron Hodkiewicz 3.9
+13 Rev. Kelley DuBuque 3.9
+19 Jamel Murphy 3.9
+21 Sen. Alejandro Rutherford 3.31625
+22 Sen. Jacquie Harvey 3.9
+23 Reed Cronin 3.9
+25 Rodger Mitchell 3.9
+26 Lenny Johnson 3.9
+27 Shantay Shields 3.9
+42 Veronique Bins 3.9
+43 The Hon. Johnny Mertz 3.9
+44 Robin Leffler 3.9
+TERMINA REPROBADOS
+COMIENZA TOP GRUPOS
+10 5.08
+12 5.045
+13 5.9175
+TERMINA TOP GRUPOS
+COMIENZA TOP AYUDANTE
+3 Miss Marlene Ortiz 4.9075
+TERMINA TOP AYUDANTE

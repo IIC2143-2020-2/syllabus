@@ -1,0 +1,164 @@
+COMIENZA PROYECTO
+ayudante:
+1 Claire Batz
+grupo:
+0
+integrantes:
+0 Honey Thiel 1 Erick Ullrich 2 Felipe Koepp
+grupo:
+1
+integrantes:
+3 Vance Renner V 4 Mirta Heidenreich 5 Msgr. Clemente Moen
+grupo:
+2
+integrantes:
+6 Jamal Crist DO 7 Rosendo Reichert 8 The Hon. Gustavo Morissette
+grupo:
+3
+integrantes:
+9 Drusilla Lebsack 10 Elisha Trantow 11 Gertha Jast
+ayudante:
+2 Porsha Kuhic
+grupo:
+4
+integrantes:
+12 Karyl Balistreri 13 Nell Marks 14 Tressie Jakubowski
+grupo:
+5
+integrantes:
+15 Sam Cronin 16 Shanna Labadie LLD 17 Jerri Koepp
+grupo:
+6
+integrantes:
+18 Markita Lemke Jr. 19 Gov. Rolland O'Keefe 20 Marceline Turcotte
+grupo:
+7
+integrantes:
+21 Beverlee Auer 22 Katherina Harvey LLD 23 Manuela Tromp
+ayudante:
+3 Pres. Isreal Dicki
+grupo:
+8
+integrantes:
+24 Shira Halvorson 25 Fredric Koepp 26 Winona Zieme
+grupo:
+9
+integrantes:
+27 Pres. Alphonso Turcotte 28 Burma Berge 29 Mariano Jakubowski
+grupo:
+10
+integrantes:
+30 Arlen Powlowski 31 Miss Craig Denesik 32 Emilio Hartmann VM
+grupo:
+11
+integrantes:
+33 Danette Nolan 34 Mina Hickle 35 Delfina Blick
+ayudante:
+4 Fanny Cormier DC
+grupo:
+12
+integrantes:
+36 Alfonzo Heidenreich 37 Hassan Stark 38 Cristy Koss
+grupo:
+13
+integrantes:
+39 Raguel Walker 40 Chang Zulauf 41 The Hon. Cassey Sipes
+grupo:
+14
+integrantes:
+42 Pedro Harris 43 Briana Daugherty 44 Blake Boehm
+grupo:
+15
+integrantes:
+45 Maryln Pacocha 46 Brendon Dooley 47 Tory Roob PhD
+ayudante:
+5 Amb. Carolina Dickinson
+grupo:
+16
+integrantes:
+48 Robbie Kunze JD 49 Kristie Pollich Esq. 50 Dr. Olin Muller
+grupo:
+17
+integrantes:
+51 Malka Emmerich 52 Letisha Bruen 53 Manual Quitzon
+grupo:
+18
+integrantes:
+54 Eldon Hilll 55 Madalyn Wintheiser CPA 56 Adolfo Sanford MD
+grupo:
+19
+integrantes:
+57 Klara Denesik 58 Rev. Gigi Conn 59 Jeniffer Wisozk
+TERMINA PROYECTO
+COMIENZA APROBADOS
+0 Honey Thiel 4.76625
+1 Erick Ullrich 5.2162500000000005
+2 Felipe Koepp 5.4662500000000005
+4 Mirta Heidenreich 4.594166666666666
+5 Msgr. Clemente Moen 4.744166666666667
+6 Jamal Crist DO 5.007083333333332
+7 Rosendo Reichert 4.473749999999999
+8 The Hon. Gustavo Morissette 4.52375
+9 Drusilla Lebsack 4.625833333333333
+10 Elisha Trantow 4.7091666666666665
+11 Gertha Jast 4.7925
+12 Karyl Balistreri 4.66125
+13 Nell Marks 4.627916666666667
+14 Tressie Jakubowski 5.044583333333334
+15 Sam Cronin 5.13
+16 Shanna Labadie LLD 4.496666666666666
+17 Jerri Koepp 4.3966666666666665
+18 Markita Lemke Jr. 4.828749999999999
+19 Gov. Rolland O'Keefe 4.428750000000001
+22 Katherina Harvey LLD 4.632083333333333
+23 Manuela Tromp 5.082083333333333
+24 Shira Halvorson 4.97375
+25 Fredric Koepp 4.890416666666667
+27 Pres. Alphonso Turcotte 4.609166666666667
+28 Burma Berge 4.309166666666667
+29 Mariano Jakubowski 5.0425
+30 Arlen Powlowski 4.539583333333333
+31 Miss Craig Denesik 4.8895833333333325
+32 Emilio Hartmann VM 5.15625
+33 Danette Nolan 4.4591666666666665
+35 Delfina Blick 4.375833333333333
+36 Alfonzo Heidenreich 4.820416666666667
+37 Hassan Stark 4.420416666666666
+38 Cristy Koss 4.487083333333333
+43 Briana Daugherty 4.4825
+44 Blake Boehm 4.099166666666667
+45 Maryln Pacocha 4.138333333333334
+46 Brendon Dooley 4.205
+47 Tory Roob PhD 5.005
+48 Robbie Kunze JD 5.203333333333333
+49 Kristie Pollich Esq. 5.42
+50 Dr. Olin Muller 4.703333333333333
+51 Malka Emmerich 5.097083333333333
+52 Letisha Bruen 4.580416666666666
+53 Manual Quitzon 4.31375
+57 Klara Denesik 4.6970833333333335
+59 Jeniffer Wisozk 4.7804166666666665
+TERMINA APROBADOS
+COMIENZA REPROBADOS
+3 Vance Renner V 3.9
+20 Marceline Turcotte 3.9
+21 Beverlee Auer 3.9
+26 Winona Zieme 3.9
+34 Mina Hickle 3.9
+39 Raguel Walker 3.64375
+40 Chang Zulauf 3.9
+41 The Hon. Cassey Sipes 3.9
+42 Pedro Harris 3.8158333333333334
+54 Eldon Hilll 3.9
+55 Madalyn Wintheiser CPA 3.9
+56 Adolfo Sanford MD 3.9
+58 Rev. Gigi Conn 3.9
+TERMINA REPROBADOS
+COMIENZA TOP GRUPOS
+0 5.1325
+3 4.885
+7 4.9975
+TERMINA TOP GRUPOS
+COMIENZA TOP AYUDANTE
+1 Claire Batz 4.755
+TERMINA TOP AYUDANTE
