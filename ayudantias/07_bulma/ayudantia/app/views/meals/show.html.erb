@@ -1,0 +1,51 @@
+
+<%
+  response = RestClient.get "https://www.themealdb.com/api/json/v1/1/lookup.php?i=#{@meal.mealId}"
+  json = JSON.parse response
+  meal = json['meals'][0]
+%>
+
+<p>
+  <strong>Name:</strong>
+  <%= @meal.name %>
+</p>
+
+<p>
+  <strong>Category:</strong>
+  <%= meal['strCategory'] %>
+</p>
+
+<p>
+  <strong>Area:</strong>
+  <%= meal['strArea'] %>
+</p>
+
+<p>
+  <strong>Instructions:</strong>
+  <%= meal['strInstructions'] %>
+</p>
+
+<p>
+  <strong>Thumb:</strong>
+  <%= @meal.thumb %>
+</p>
+
+<img src="<%= @meal.thumb %>" alt="meal picture">
+
+<p>
+  <strong>mealId:</strong>
+  <%= @meal.mealId %>
+</p>
+
+<p>
+  <strong>Ingredients</strong>
+</p>
+
+<ul>
+  <% 20.times do |i| %>
+    <% if meal["strIngredient#{i+1}"] != '' %>
+    <li><%= meal["strIngredient#{i+1}"] %></li>
+    <% end %>
+  <% end %>
+</ul>
+<%= link_to 'Back', meals_path %>

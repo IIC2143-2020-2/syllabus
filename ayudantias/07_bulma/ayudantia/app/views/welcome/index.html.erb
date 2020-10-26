@@ -1,0 +1,30 @@
+<%#
+<!--  meals = []-->
+<!--  1.times do |i|-->
+<!--    response = RestClient.get 'https://www.themealdb.com/api/json/v1/1/random.php'-->
+<!--    json = JSON.parse response-->
+<!--    meal = json['meals'][0]-->
+<!--    puts meal['idMeal']-->
+<!--  end-->
+%>
+<% if user_signed_in? %>
+  <h1>Bienvendo a DCComidas</h1>
+  <p><%= current_user.email %></p>
+  <p>Cantidad de comidas en la app: <%= @meals.length %></p>
+  <p>Cantidad de categorias en la app: <%= @categories.length %></p>
+
+  <%= link_to 'Ver Categorias', categories_path %>
+  <%= link_to 'Ver Comidas', meals_path %>
+
+  <%= link_to 'Desconectarse', destroy_user_session_path %>
+
+<% else %>
+  <h1>Welcome</h1>
+  <p>No estas registrado</p>
+
+
+  <%= link_to 'Registrarse', new_user_registration_path %>
+
+  <%= link_to 'Conectarse', new_user_session_path %>
+
+<% end %>

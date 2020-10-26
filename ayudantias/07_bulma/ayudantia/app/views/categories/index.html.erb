@@ -1,0 +1,25 @@
+<%= stylesheet_link_tag 'categoria.css' %>
+<h1>Listing Categories</h1>
+<%= link_to 'Back', :back %>
+<a href="/">Home</a>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Thumb</th>
+    <th>Description</th>
+    <th colspan="3"></th>
+  </tr>
+
+  <% @categories.each do |category| %>
+    <tr>
+      <td><%= category.name %></td>
+      <td><%= category.thumb %></td>
+      <td><%= category.description %></td>
+      <td><%= link_to 'Show', category_path(category) %></td>
+      <td><%= link_to 'Edit', edit_category_path(category) %></td>
+      <td><%= link_to 'Destroy', category_path(category),
+                      method: :delete,
+                      data: { confirm: 'Are you sure?' } %></td>
+    </tr>
+  <% end %>
+</table>
